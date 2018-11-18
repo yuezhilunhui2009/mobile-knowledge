@@ -30,6 +30,21 @@
 
 ## 开发调试篇
 
+### Android
+* [Kotlin 语言教程](https://kotlinlang.org/docs/tutorials/)
+* [Develop Android apps with Kotlin](https://developer.android.com/kotlin/)
+* [Android Studio - Android 应用开发 IDE](https://developer.android.com/studio/)
+* [Documentation for app developers - Android 开发文档](https://developer.android.com/docs/)
+* [adb - Android 调试桥](https://developer.android.com/studio/command-line/adb)
+* [logcat 命令行工具](https://developer.android.com/studio/command-line/logcat)
+
+### iOS
+* [Objective-C 语言教程](https://www.tutorialspoint.com/objective_c/index.htm)
+* [swift 语言教程](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [xcode - iOS 应用开发 IDE](https://developer.apple.com/xcode/)
+* [iOS 应用开发资源](https://developer.apple.com/develop/)
+* [Apple Developer Documentation](https://developer.apple.com/documentation/)
+
 ## 测试篇
 
 ## 数据上报篇
