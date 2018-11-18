@@ -4,7 +4,6 @@
 ## 人机交互篇
 * [Material-Design-Chinese](https://github.com/zdhxiong/Material-Design-Chinese)
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-* [最新 iOS 人机界面指南中文版 2018四月版](https://zhuanlan.zhihu.com/p/35184751)
 
 ## 设计与规范篇
 * [PX/PT/PPI/DPI/DP/SP 之间的关系](https://www.ui.cn/detail/194953.html)
