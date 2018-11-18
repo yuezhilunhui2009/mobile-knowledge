@@ -14,6 +14,18 @@
 * [一款 APP，从设计稿到切图(iOS 篇)](https://www.ui.cn/detail/67329.html)
 
 ## flex 布局篇
+* [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+* [Animated Flexbox Playground](https://codepen.io/osublake/pen/dMLQJr)
+
+    <img src="./assets/animated-flexbox-playground.png" width="600">
+
+* [Flexbox Properties Demonstration](https://codepen.io/justd/pen/yydezN)
+
+    <img src="./assets/flexbox-properties-demoinstration.png" width="600">
+
+* [12 Column Flex Grid](https://codepen.io/nickelse/pen/MEWPwm)
+* [Flexbox Responsive Grid Playground](https://codepen.io/marcolago/pen/lqGFb)
 
 ## 开发调试篇
 
