@@ -1,9 +1,9 @@
-# ui-docs
-记录从 web 前端到移动客户端开发需要补充的概念。
+# mobile-knowledge
+站在 web 前端开发学习移动客户端开发的角度整理相关急需补充的学习材料。
 
 ## 人机交互篇
 * [Material-Design-Chinese](https://github.com/zdhxiong/Material-Design-Chinese)
-* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 * [最新 iOS 人机界面指南中文版 2018四月版](https://zhuanlan.zhihu.com/p/35184751)
 
 ## 设计与规范篇
